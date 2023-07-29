@@ -5,3 +5,4 @@ day 3 - data frame, rows and columns, row binds, column binds, loops-amstrong nu
 day 4 - repeat loop, switch case, function, normal distribution.
 day 5 - class-returns data type of variable, grep, grepl, regular expression-phone number, email. 
 day 6 - read and write excel files using 'xlsx' library.
+day 7 - practice problems and solutions in loops, functions, csv.
