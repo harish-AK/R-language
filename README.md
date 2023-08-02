@@ -8,3 +8,4 @@ day 6 - read and write excel files using 'xlsx' library.
 day 7 - practice problems and solutions in loops, functions, csv.
 day 8 - Visualization using ggplot2.
 day 9 - sample problems using loops, functions and regular expression.
+day 10 - 3D  visualization using plotrix
