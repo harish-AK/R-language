@@ -1,0 +1,12 @@
+a=read.csv("D:\\R studio\\RStudio\\Programs\\basketball.csv")
+print(a)
+avg=mean(a$Age)
+print(avg)
+mid=median(a$Height)
+print(mid)
+s_d=sd(a$Height)
+print(s_d)
+# Number of players in each height category 
+hist(a$Height, xlab = "Height", ylab = "Frequency", main = "Distribution of Height")
+
+
